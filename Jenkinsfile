@@ -1,4 +1,4 @@
-
+// Trigger comment
 pipeline {
     agent any
     triggers {
