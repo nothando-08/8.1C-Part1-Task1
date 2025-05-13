@@ -1,4 +1,4 @@
-// Trigger test commit - checking Git polling
+
 pipeline {
     agent any
     triggers {
